@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "WebSearch: Search the web",
+        "command": "web_search"
+    }
+]

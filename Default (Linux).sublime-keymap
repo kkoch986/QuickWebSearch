@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+k"], "command": "web_search", "args": {} }
+]
