@@ -1,4 +1,23 @@
 {
-    "com.kenkoch.websearch.search_engine": "https://www.google.com/search?",
-    "com.kenkoch.websearch.search_var": "q"
+    "com.kenkoch.websearch.default_search_engine": 0,
+    "com.kenkoch.websearch.search_engines": [
+    	{
+    		"name": "Google",
+    		"desc": "The famous Google search engine.",
+    		"url": "https://www.google.com/search?",
+    		"var": "q"
+    	},
+    	{
+    		"name": "Bing",
+    		"desc": "The Bing search engine.",
+			"url": "https://www.bing.com/search?",
+    		"var": "q"	
+    	},
+    	{
+    		"name": "Stack Overflow",
+    		"desc": "A language-independent collaboratively edited question and answer site for programmers.",
+    		"url": "http://www.stackoverflow.com/search?",
+    		"var": "q"
+    	}
+    ]
 }
