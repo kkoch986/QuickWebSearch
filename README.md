@@ -10,11 +10,6 @@ To install simply link or copy the WebSearch folder in the Packages directory (S
 ## Usage
 
 The default key binding for the search event is ctrl+k (cmd+k on mac), you can change this in the *.sublime-keymap files included with this project. 
+Pressing the key binding will open a drop down where you can choose a search engine from the list in the sublime settings file. If you prefer a quick search,
+the default key binding is ctl+shift+super+k (super+shift+k on mac). This will open the first search engine in the settings list.
 
-## Changing the search engine
-
-In the WebSearch.sublime-settings file you can see a way to change the search engine. Simply replace the search url in the settings with the desired search url and be sure to update the search variable (for google and bing it is the letter q).
-
-## Todo
-
-I'd like to add a few more commands to allow quick searching of different engines. Coming Soon.

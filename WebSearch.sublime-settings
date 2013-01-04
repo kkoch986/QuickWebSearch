@@ -10,7 +10,7 @@
     	{
     		"name": "Bing",
     		"desc": "The Bing search engine.",
-			"url": "https://www.bing.com/search?",
+			"url": "https://bing.com/search?",
     		"var": "q"	
     	},
     	{
