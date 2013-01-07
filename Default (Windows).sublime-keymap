@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctl+k"], "command": "web_search", "args": {} },
+	{ "keys": ["ctl+shift+super+k"], "command": "quick_web_search", "args": {} }
+]
