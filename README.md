@@ -1,5 +1,6 @@
 SublimeWebSearch
 ================
+by Ken Koch 2013 [kkoch986@gmail.com]
 
 A sublime text 2 plugin to allow quick jumping to a web search. When the command is executed (note: a buffer must be open for the command to work), a text field will appear at the bottom of the screen. Enter something in there and hit enter and POW! web search.
 
