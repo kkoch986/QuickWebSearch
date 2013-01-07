@@ -1,5 +1,5 @@
 '''
-' by Ken Koch 2013
+' by Ken Koch 2013 [kkoch986@gmail.com]
 ' Sublime Web Search Plugin
 '''
 import sublime, sublime_plugin
