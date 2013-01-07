@@ -2,5 +2,9 @@
     {
         "caption": "WebSearch: Search the web",
         "command": "web_search"
+    },
+    {
+        "caption": "WebSearch: Quick Search (using default engine)",
+        "command": "quick_web_search"
     }
 ]
